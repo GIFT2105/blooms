@@ -6,7 +6,7 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint . --quiet"
+    "lint": "next lint"
   },
   "dependencies": {
     "bcrypt": "^5.1.1",
